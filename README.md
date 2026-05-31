@@ -3,7 +3,6 @@
 > **Rancangan Enterprise Architecture IS/IT**  
 > Mata Kuliah: Enterprise Architecture  
 > Program Studi: Sistem Informasi  
-> Universitas Islam Negeri Sultan Syarif Kasim Riau — 2024
 
 ---
 
