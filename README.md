@@ -151,4 +151,4 @@ Atau upload ke [Kaggle](https://kaggle.com) dengan dataset dari:
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan akademik — Mata Kuliah Enterprise Architecture, UIN Suska Riau 2024.
+Proyek ini dibuat untuk keperluan akademik — Mata Kuliah Enterprise Architecture.
