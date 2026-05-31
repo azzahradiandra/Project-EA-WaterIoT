@@ -11,9 +11,9 @@
 
 | Nama | NIM | Tugas |
 |------|-----|-------|
-| [Nama Orang 1] | [NIM] | Fondasi & Bisnis (Fase Preliminary, A, B) |
-| [Nama Orang 2] | [NIM] | Sistem Informasi & Data (Fase C — Aplikasi, ML, ERD) |
-| [Nama Orang 3] | [NIM] | Teknologi & Perencanaan (Fase D, E, F, G, H) |
+| Azzahra Nayla Diandra | 245150401111044 | Fondasi & Bisnis (Fase Preliminary, A, B) |
+| Najwa Tazkiya Rahman | 245150401111042 | Sistem Informasi & Data (Fase C — Aplikasi, ML, ERD) |
+| Yasmine Nailatul F.G. | 245150407111005 | Teknologi & Perencanaan (Fase D, E, F, G, H) |
 
 ---
 
